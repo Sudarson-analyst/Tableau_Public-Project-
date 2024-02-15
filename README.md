@@ -27,7 +27,7 @@ After the analysing the data , the prediction is made that categorising the numb
 - No of customers who are engaged in and above the average duration 21 are 446 customers and
 - No of customers who are checking the account to deposit in the category of moderate and rich are 332
 
-So on a average 396 will do the term deposit which is approximately 400 customers.
+So on a average 396 customers will do the term deposit which is approximately 400 customers.
 
 #### Limitations
 The Predicted value is approximate of the data and the accuracy is negligible as the some of the unavailable category data are removed.
