@@ -21,7 +21,7 @@ Note:Filters are used to remove the category which is not available.
 https://public.tableau.com/app/profile/sudarson.s1147/viz/CustomerSegmentationProjectBank-Creditcard/CUSTOMERSEGMENTATIONFORCREDITCARD?publish=yes
 
 ### Conclusion
-After the analysing the data , the prediction is made that categorising the number of customers who has above average in overall comparing the parameters like engaged duration,age,housing and job.
+After analysing the data , the prediction is made that categorising the number of customers who has above average in overall comparing the parameters like engaged duration,age,housing and job.
 #### Prediction
 - No of customers who are in and above the average age 36 are 412 customers
 - No of customers who are engaged in and above the average duration 21 are 446 customers and
