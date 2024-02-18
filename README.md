@@ -1,8 +1,8 @@
 # CUSTOMER SEGMENTATION DASHBOARD FOR CREDIT CARD
 ## Project Overview
-This Project is based the bank domain , the requirements of the bank is to know the market of the customers who are willing to do the term deposit.The Marketing team has done their job but they need to know whether they need to improve or to know that the potential customers are targeted.
+This Project is based on the bank domain , the requirements of the bank is to know the market of the customers who are willing to do the term deposit.The Marketing team has done their job but they need to know whether they need to improve or to know that the potential customers are targeted.
 ## Problem Statement 
-A German Bank has collected the data of the customers who are using the credit card and marketing data.The objective is that the bank want to know that the how many customers will use term deposit(crediting amount).
+A German Bank has collected the data of the customers who are using the credit card and marketing data.The objective is that the bank want to know that the how many customers will do the term deposit(crediting amount).
 
 ## Steps followed 
 ### Data Cleaning
@@ -21,7 +21,7 @@ Note:Filters are used to remove the category which is not available.
 https://public.tableau.com/app/profile/sudarson.s1147/viz/CustomerSegmentationProjectBank-Creditcard/CUSTOMERSEGMENTATIONFORCREDITCARD?publish=yes
 
 ### Conclusion
-After analysing the data , the prediction is made that categorising the number of customers who has above average in overall comparing the parameters like engaged duration,age,housing and job.
+After analysing the data , the prediction is made that categorising the number of customers who has the above average in overall ,comparing the parameters like engaged duration,age,housing and job.
 #### Prediction
 - No of customers who are in and above the average age 36 are 412 customers
 - No of customers who are engaged in and above the average duration 21 are 446 customers and
